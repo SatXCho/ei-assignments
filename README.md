@@ -1,2 +1,2 @@
 # ei-assignments
-Repository containing my solutions for the Ei coding assignment
+Repository containing my solutions for the Ei coding assignments
