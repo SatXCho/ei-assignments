@@ -835,6 +835,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.Extensions.Logging >= 8.0.0",
       "Microsoft.Extensions.Logging.Console >= 8.0.0"
     ]
   },
@@ -882,6 +883,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
           "Microsoft.Extensions.Logging.Console": {
             "target": "Package",
             "version": "[8.0.0, )"
