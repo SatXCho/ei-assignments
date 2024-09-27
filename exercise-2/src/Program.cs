@@ -1,8 +1,4 @@
-using System;
-using System.Collections.Generic;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Console;
-using Microsoft.Extensions.Options;
 class Program
 {
     static void Main(string[] args)
