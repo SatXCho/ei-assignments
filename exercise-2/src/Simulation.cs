@@ -52,7 +52,7 @@ class SimulationManager
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Error: {ex.Message}");
+                _logger.LogError($"An Error Occured: {ex.Message}");
             }
         }
     }
