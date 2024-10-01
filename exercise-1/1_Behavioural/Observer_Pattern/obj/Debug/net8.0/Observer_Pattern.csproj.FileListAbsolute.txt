@@ -1,0 +1,15 @@
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\bin\Debug\net8.0\Observer_Pattern.exe
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\bin\Debug\net8.0\Observer_Pattern.deps.json
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\bin\Debug\net8.0\Observer_Pattern.runtimeconfig.json
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\bin\Debug\net8.0\Observer_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\bin\Debug\net8.0\Observer_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.AssemblyInfoInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.AssemblyInfo.cs
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.csproj.CoreCompileInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.sourcelink.json
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\refint\Observer_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\Observer_Pattern.genruntimeconfig.cache
+E:\I am the one who develops\ei-assignments\exercise-1\1_Behavioural\Observer_Pattern\obj\Debug\net8.0\ref\Observer_Pattern.dll

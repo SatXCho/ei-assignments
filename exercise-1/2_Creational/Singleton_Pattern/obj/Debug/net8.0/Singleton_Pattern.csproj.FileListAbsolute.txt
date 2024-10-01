@@ -1,0 +1,15 @@
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\bin\Debug\net8.0\Singleton_Pattern.exe
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\bin\Debug\net8.0\Singleton_Pattern.deps.json
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\bin\Debug\net8.0\Singleton_Pattern.runtimeconfig.json
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\bin\Debug\net8.0\Singleton_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\bin\Debug\net8.0\Singleton_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.AssemblyInfoInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.AssemblyInfo.cs
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.csproj.CoreCompileInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.sourcelink.json
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\refint\Singleton_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\Singleton_Pattern.genruntimeconfig.cache
+E:\I am the one who develops\ei-assignments\exercise-1\2_Creational\Singleton_Pattern\obj\Debug\net8.0\ref\Singleton_Pattern.dll

@@ -1,0 +1,15 @@
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\bin\Debug\net8.0\Adapter_Pattern.exe
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\bin\Debug\net8.0\Adapter_Pattern.deps.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\bin\Debug\net8.0\Adapter_Pattern.runtimeconfig.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\bin\Debug\net8.0\Adapter_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\bin\Debug\net8.0\Adapter_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.AssemblyInfoInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.AssemblyInfo.cs
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.csproj.CoreCompileInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.sourcelink.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\refint\Adapter_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\Adapter_Pattern.genruntimeconfig.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Adapter_Pattern\obj\Debug\net8.0\ref\Adapter_Pattern.dll

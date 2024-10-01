@@ -1,0 +1,15 @@
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\bin\Debug\net8.0\Decorator_Pattern.exe
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\bin\Debug\net8.0\Decorator_Pattern.deps.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\bin\Debug\net8.0\Decorator_Pattern.runtimeconfig.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\bin\Debug\net8.0\Decorator_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\bin\Debug\net8.0\Decorator_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.AssemblyInfoInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.AssemblyInfo.cs
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.csproj.CoreCompileInputs.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.sourcelink.json
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\refint\Decorator_Pattern.dll
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.pdb
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\Decorator_Pattern.genruntimeconfig.cache
+E:\I am the one who develops\ei-assignments\exercise-1\3_Structural\Decorator_Pattern\obj\Debug\net8.0\ref\Decorator_Pattern.dll
