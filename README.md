@@ -2,7 +2,7 @@
 
 ## Exercise-1
 
-### 1. Observer Pattern: Weather Station Monitoring System
+### 1. Observer Pattern: Adaptive game difficulty System
 
 ### **Pattern Type**: Behavioral
 In a game with adaptive AI difficulty, The GameSession is the subject, while EnemyAI and AchievementSystem are observers. As the player's performance changes, the AI difficulty adjusts, and achievements are unlocked, demonstrating how multiple systems can react to the same state changes.
